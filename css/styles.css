@@ -25,7 +25,17 @@ input[type=submit] {
 input[type=submit]:hover {
   background-color: #45a049;
 }
-
+.container-fluid{
+  padding: 50px;
+}
+#rightbar{
+  background-color: #EDE8E9;
+  border: 1px solid black;
+  border-radius: : 5px;
+}
+.feedback{
+  align-content: center;
+}
 /* div { */
   /* border-radius: 5px; */
   /* background-color: #f2f2f2; */
