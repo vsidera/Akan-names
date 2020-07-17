@@ -8,7 +8,7 @@ table {
 }
 input {
   width: 80%;
-  border: 2px solid black
+  border: 2px solid black;
   color: black;
 }
 input[type=submit] {
@@ -28,16 +28,29 @@ input[type=submit]:hover {
 .container-fluid{
   padding: 50px;
 }
+#lowersection{
+  background: url(../images/ghana2.jpg);
+}
 #rightbar{
-  background-color: #EDE8E9;
+  background-color: white;
+  opacity: 90%;
   border: 1px solid black;
   border-radius: : 5px;
+  color: black;
+}
+
+#leftbar{
+  color: white;
+  padding: 5px;
 }
 .feedback{
   align-content: center;
 }
-/* div { */
-  /* border-radius: 5px; */
+div {
+  border-radius: 5px;
   /* background-color: #f2f2f2; */
-  /* padding: 20px; */
-/* } */
+  padding: 20px;
+}
+#footer{
+  text-align: center;
+}
