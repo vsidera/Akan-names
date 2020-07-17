@@ -13,7 +13,7 @@ input {
 }
 input[type=submit] {
   width: 80%;
-  background-color: #4CAF50;
+  background-color: #97075A;
   color: white;
   padding: 14px 20px;
   margin: 8px 0;
@@ -23,7 +23,7 @@ input[type=submit] {
 }
 
 input[type=submit]:hover {
-  background-color: #45a049;
+  background-color: black;
 }
 .container-fluid{
   padding: 50px;
@@ -44,12 +44,18 @@ input[type=submit]:hover {
   padding: 5px;
 }
 .feedback{
-  align-content: center;
+  text-align: center;
 }
 div {
   border-radius: 5px;
   /* background-color: #f2f2f2; */
   padding: 20px;
+}
+#header{
+  text-align: center;
+  background-color:#97075A;
+  color: white;
+  font-family: sans-serif;
 }
 #footer{
   text-align: center;
