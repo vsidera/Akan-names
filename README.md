@@ -9,7 +9,7 @@ The application allows the user to input their Date,Month and year of Birth and 
 ## Setup/Installation Requirements
 * Internet Connection
 * Desktop /Laptop/Phone
-This is the link to the livesite <br><br>
+This is the link to the livesite on gh-pages <br><br>
 https://vsidera.github.io/Portfolio/
 
 This application is responsive and was created using bootstrap.It is thus visible on all computer sizes
