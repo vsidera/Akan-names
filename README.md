@@ -7,18 +7,27 @@ Frequently in Ghana, children are given their first name
 as a 'day name' which corresponds to the day in the week they were born.
 The application allows the user to input their Date,Month and year of Birth and then displays their Akan name.
 ## Setup/Installation Requirements
-* This is a great place
-* to list setup instructions
-* in a simple
-* easy-to-understand
-* format
-{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?}
+* Internet Connection
+* Desktop /Laptop/Phone
+This is the link to the livesite <br><br>
+https://vsidera.github.io/Portfolio/
+
+This application is responsive and was created using bootstrap.It is thus visible on all computer sizes
+in a clear, polished and exciting interface, be it a desktop/laptop ,ipad or a phone.
 ## Known Bugs
-{Are there issues that have not yet been resolved that you want to let users know you know? Outline any issues that would impact use of your application. Share any workarounds that are in place. }
+There are no known bugs for this application, although it falls short of including people who don't identify
+with either genders of Male or Female. This is solely because the Akan names only exists for the Male and Female
+genders specifically.
 ## Technologies Used
-{Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}
+* HTML5
+* CSS
+* Bootstrap
+* Javascript
+
 ## Support and contact details
-{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}
+Feel free to contact me for comment or any suggestions.
+siderravictor@gmail.com <br>  <br>
+0711438911<br><br>
+Twitter- @vicksiderra
 ### License
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
-Copyright (c) {year} **{List of contributors or company name}**
+This is private information which MUST not be commercialised by anyone.Use for Official and educational purposes only Copyright (c) 2020 **siderra,moringa school**
