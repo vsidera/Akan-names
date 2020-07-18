@@ -10,6 +10,7 @@ input {
   width: 80%;
   border: 2px solid black;
   color: black;
+  
 }
 input[type=submit] {
   width: 80%;

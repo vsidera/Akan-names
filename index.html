@@ -74,11 +74,11 @@
                    <h4>Fill in the details below</h4>
                  </p>
                  <label for="yob">Year Of Birth:</label><br>
-                 <input type="year" id="yob" name="yob"><br>
+                 <input type="number" id="yob" name="yob" min="1900" max="2020" required placeholder="1963"><br>
                  <label for="month">Month:</label><br>
-                 <input type="text" id="month" name="month"><br>
+                 <input type="number" id="month" name="month" min="1" max="12" required placeholder="12"><br>
                  <label for="date">Date:</label><br>
-                 <input type="text" id="date" name="date"><br>
+                 <input type="number" id="date" name="date" min="1" max="31" required placeholder="20"><br>
                  <p><h6>gender</h6></p>
                  <input type="radio" id="male" name="gender" value="male"> <br>
                  <label for="male">Male</label><br>
