@@ -25,7 +25,7 @@ genders specifically.
 * Javascript
 
 ## Support and contact details
-Feel free to contact me for comment or any suggestions.
+Feel free to contact me for comment or any suggestions. <br><br>
 siderravictor@gmail.com <br>  <br>
 0711438911<br><br>
 Twitter- @vicksiderra
