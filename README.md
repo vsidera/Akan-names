@@ -1,8 +1,11 @@
 # Akan-name Generator
-#### {Brief description of application}, {Date of current version}
-#### By **{List of contributors}**
+#### The application allows the user to input their Date,Month and year of Birth and then displays their Akan name, 18/07/2020
+#### By **siderra,moringa school**
 ## Description
-{This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
+Akan names are derived from Ghanian culture.
+Frequently in Ghana, children are given their first name
+as a 'day name' which corresponds to the day in the week they were born.
+The application allows the user to input their Date,Month and year of Birth and then displays their Akan name.
 ## Setup/Installation Requirements
 * This is a great place
 * to list setup instructions
