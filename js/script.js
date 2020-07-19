@@ -19,6 +19,7 @@ $(document).ready(function() {
         var d = parseInt($("#date").val());
         var g = $("input:radio[name=gender]:checked").val();
         var result = akan(y, m, d, g);
+        
         alert("Your akan name is: " + result);
         //refresh page
         document.getElementById("form").reset();
