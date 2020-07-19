@@ -1,3 +1,5 @@
-function getAkan(){
-    alert("test");
-}
+$(document).ready ( function () {
+    $("#form").submit(function () {
+       alert("test");
+    });
+});
