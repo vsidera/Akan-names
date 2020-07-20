@@ -1,4 +1,4 @@
-// Business (or back-end) logic:
+// Backend
 var akan = function(y, m, d, g) {
     var femaleNames = ["Akosua", "Adwoa", "Abenaa", "Akua", "Yaa", "Afua", "Ama"];
     var maleNames = ["Kwasi", "Kudwo", "Kwabena", "Kwaku", "Yaw", "Kofi", "Kwame"];
@@ -10,7 +10,7 @@ var akan = function(y, m, d, g) {
     }
 }
 
-// User interface (or front-end) logic:
+// Front End
 $(document).ready(function() {
     $("form#form").submit(function(event) {
         event.preventDefault();
@@ -20,7 +20,7 @@ $(document).ready(function() {
         var g = $("input:radio[name=gender]:checked").val();
         var result = akan(y, m, d, g);
         alert("Your akan name is: " + result);
-        //refresh page
+        //Refresh
         document.getElementById("form").reset();
     });
 });
